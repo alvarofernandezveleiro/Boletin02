@@ -6,3 +6,16 @@
     habitaciones triples, suites.
     Probar si es un documento bien formado.
 -->
+<hoteles>
+    <nombre>Hotel Falso</nombre>
+    <telefono>111222333</telefono>
+    <direccion>Calle falsa 25</direccion>
+    <ciudad>Atlantis</ciudad>
+    <pais>Wakanda</pais>
+    <numero_de_estrellas>5</numero_de_estrellas>
+    <descripcion>Hotel increible a un precio maravilloso</descripcion>
+    <numero_habitaciones>250</numero_habitaciones>
+    <habitaciones_dobles>45</habitaciones_dobles>
+    <habitaciones_triples>10</habitaciones_triples>
+    <suites>3</suites>
+</hoteles>
